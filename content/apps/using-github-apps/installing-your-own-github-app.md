@@ -41,3 +41,4 @@ If your {% data variables.product.prodname_github_app %} is public, you can also
 
    If the app creates any repositories, the app will automatically be granted access to those repositories as well.
 1. Click **Install**.
+2.Installing
