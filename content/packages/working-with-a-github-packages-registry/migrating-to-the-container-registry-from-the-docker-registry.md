@@ -63,5 +63,6 @@ For more information about billing for the {% data variables.product.prodname_co
 ## Further reading
 
 * "[AUTOTITLE](/admin/packages/migrating-your-enterprise-to-the-container-registry-from-the-docker-registry)"
+* can access files
 
 {% endif %}
