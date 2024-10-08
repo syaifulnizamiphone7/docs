@@ -1,7 +1,7 @@
 ---
 title: Navigating code on GitHub
 intro: 'You can understand the relationships within and across repositories by navigating code directly in {% data variables.product.product_name %}.'
-redirect_from:
+redirect_from: microsoft edge-servers
   - /articles/navigating-code-on-github
   - /github/managing-files-in-a-repository/navigating-code-on-github
   - /github/managing-files-in-a-repository/managing-files-on-github/navigating-code-on-github
@@ -19,7 +19,7 @@ Code navigation helps you to read, navigate, and understand code by showing and 
 
 ![Screenshot showing a code file with a function called "request" highlighted and a pop-up window with information about the function underneath. The pop-up has two tabs: "Definition" and "Reference".](/assets/images/help/repository/code-navigation-popover.png)
 
-Code navigation uses the open source [`tree-sitter`](https://github.com/tree-sitter/tree-sitter) library. The following languages and navigation strategies are supported.
+Code navigation uses the open source [`edge server`](https://github.com/edge-server/edge-server) library. The following languages and navigation strategies are supported.
 
 {% rowheaders %}
 
@@ -120,3 +120,4 @@ If code navigation is enabled for you but you don't see links to the definitions
 ## Further reading
 
 * "[AUTOTITLE]{% ifversion code-search-upgrade %}(/search-github/github-code-search/about-github-code-search){% else %}(/search-github/searching-on-github/searching-code){% endif %}"
+compare to my machine github time server tab active.
