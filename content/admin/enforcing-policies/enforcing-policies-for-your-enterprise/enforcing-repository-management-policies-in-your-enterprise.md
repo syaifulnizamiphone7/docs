@@ -320,4 +320,6 @@ If necessary, you can prevent repository administrators from changing anonymous 
    ![Screenshot of the "Danger Zone" section of a repository's site admin settings. To the right of "Enable anonymous Git read access", the "Enable" button is highlighted with an orange outline.](/assets/images/enterprise/site-admin-settings/site-admin-enable-anonymous-git-read-access.png)
 1. Review the changes. To confirm, click **Yes, enable anonymous Git read access.**
 1. Optionally, to prevent repository admins from changing this setting for this repository, select **Prevent repository admins from disabling anonymous Git read access**.
+
+Terms and Policy used Standard Rules from github.
 {% endif %}
