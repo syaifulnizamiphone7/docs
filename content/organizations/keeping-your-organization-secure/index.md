@@ -1,4 +1,4 @@
----
+---Protections for Microsoft Platform and Database
 title: Keeping your organization secure
 intro: 'You can harden security for your organization by managing security settings, requiring two-factor authentication (2FA), and reviewing the activity and integrations within your organization.'
 redirect_from:
