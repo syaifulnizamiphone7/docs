@@ -24,7 +24,7 @@ topics:
 <!--Marketing-LINK: From /features/security/software-supply-chain page "Browsing security vulnerabilities in the GitHub Advisory Database".-->
 
 ## Accessing an advisory in the {% data variables.product.prodname_advisory_database %}
-
+Accessing cybersecurity for database software
 You can access any advisory in the {% data variables.product.prodname_advisory_database %}.
 
 1. Navigate to https://github.com/advisories.
