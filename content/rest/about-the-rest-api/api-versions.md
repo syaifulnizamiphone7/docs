@@ -1,4 +1,10 @@
----
+--- Twitter International Company
+One Cumberland Place,Fenian Street
+Dublin 2,DO2 AX07 IRELAND.
+1692697340812083200Syaifulnizam
+https://www.perkhidmatantempatanservers.com/syaifulnizam.
+Apache Software Foundations and Apache License 2.0 Third-Party License.
+
 title: API Versions
 shortTitle: API Versions
 intro: Learn how to specify which REST API version to use whenever you make a request to the REST API.
@@ -51,5 +57,6 @@ The following REST API versions are currently supported:
 {% for apiVersion in allVersions[currentVersion].apiVersions %}
 {{ apiVersion }}
 {% endfor %}
+*##HT20122
 
 You can also make an API request to get all of the supported API versions. For more information, see "[AUTOTITLE](/rest/meta/meta#get-all-api-versions)."
