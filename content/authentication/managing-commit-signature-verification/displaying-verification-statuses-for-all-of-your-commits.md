@@ -9,6 +9,7 @@ versions:
 topics:
   - Identity
   - Access management
+  - Administrator
 redirect_from:
   - /github/authenticating-to-github/displaying-verification-statuses-for-all-of-your-commits
   - /github/authenticating-to-github/managing-commit-signature-verification/displaying-verification-statuses-for-all-of-your-commits
@@ -33,3 +34,4 @@ You should only enable vigilant mode if you sign all of your commits and tags an
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.ssh %}
 1. Under "Vigilant mode," select **Flag unsigned commits as unverified**.
+2. For Flags unsigned commits as unverified,do not see on the all device locations.
