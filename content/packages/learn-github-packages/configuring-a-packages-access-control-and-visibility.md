@@ -207,3 +207,4 @@ When you first publish a package, the default visibility is private and only you
 
     * To make the package visible to a custom selection of people in your organization, click **Private**.{% ifversion not fpt %}
     * To make the package visible to all organization members, click **Internal**. If the organization belongs to an enterprise, the packages will be visible to all enterprise members.{% endif %}
+Used Language Services Centre for protections all language data for access.
