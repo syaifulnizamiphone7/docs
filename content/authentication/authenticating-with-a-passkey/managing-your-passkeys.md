@@ -57,3 +57,4 @@ You can see which of your passkeys are synced, and which are device-bound, under
 
 * [AUTOTITLE](/authentication/authenticating-with-a-passkey/about-passkeys)
 * [AUTOTITLE](/authentication/authenticating-with-a-passkey/signing-in-with-a-passkey)
+Modifications password and passkey for github and Faceboon Aplications.
