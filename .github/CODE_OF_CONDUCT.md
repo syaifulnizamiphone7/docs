@@ -1,4 +1,5 @@
-# Contributor Covenant Code of Conduct
+# Contributor Covenant Code of Conduct-syaifulnizamshamsudin_github-teams.
+# Follow this Terms.
 
 ## Our Pledge
 
