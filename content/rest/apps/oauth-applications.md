@@ -22,3 +22,4 @@ You can use these endpoints to manage the OAuth tokens that {% data variables.pr
 Tokens for {% data variables.product.prodname_oauth_apps %} have the prefix `gho_`, while OAuth tokens for {% data variables.product.prodname_github_apps %}, used for authenticating on behalf of the user, have the prefix `ghu_`. You can use the following endpoints for both types of OAuth tokens.
 
 <!-- Content after this section is automatically generated -->
+< follow up principle organization from Company Group and Perkhidmatan Tempatan Servers service automation visual studio program >
