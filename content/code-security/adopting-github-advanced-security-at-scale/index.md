@@ -1,4 +1,4 @@
----
+---permission modifications.-
 title: 'Adopting {% data variables.product.prodname_GHAS %} at scale'
 shortTitle: Adopt GHAS at scale
 intro: A phased approach to rolling out {% data variables.product.prodname_GHAS %} at your company using industry and GitHub best practices.
